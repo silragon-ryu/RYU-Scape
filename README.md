@@ -8,7 +8,8 @@ Ryu-Scape is a desktop application that leverages deep learning to transform 2D 
 
 ## 📸 Screenshots
 
-_Add screenshots or a GIF showing your application in action here!_
+![image](https://github.com/user-attachments/assets/e45168e4-f340-4eb3-a452-24a3344a39b2)
+
 
 ---
 
