@@ -1,0 +1,17 @@
+This file was generated for the Ryu-Scape project.
+It can be used to install all necessary dependencies with:
+pip install -r requirements.txt
+numpy
+torch
+torchvision
+torchaudio
+PyQt5
+PyQt5-sip
+PyQt5-Qt5
+PyOpenGL
+opencv-python-headless
+rasterio
+open3d
+matplotlib
+requests
+pyinstaller
