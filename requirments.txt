@@ -15,4 +15,3 @@ open3d
 matplotlib
 requests
 pyinstaller
-opencv
